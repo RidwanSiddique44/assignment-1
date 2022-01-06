@@ -1,0 +1,117 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'PT Serif', serif;
+}
+section{
+    margin-bottom: 5%;
+}
+.text-color{
+    color: rgb(230, 30, 123);
+}
+#left-border{
+    border-left: 3px solid;
+    border-color: rgb(211, 6, 68);
+    border-image-slice: 1;
+    padding-left: 4px;
+   
+}
+
+div a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(170, 30, 58);
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+div a:hover{
+    color:yellow;
+}
+div p{
+    text-align: justify;
+}
+
+.simmiler{
+    display: flex;
+
+}
+.half-width{
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    
+}
+.half-width img{
+    width: 70%;
+
+}
+.fitting{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+
+#part-1-pic{
+    width: 50%;
+    height: 50%;
+    padding-left: 10%;
+    border-radius: 10px;
+}
+#part-1-pic img{
+    width: 90%;
+}
+.alighnment{
+    text-align: center;
+}
+.box-fit{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+.box-width{
+    width: 50%;
+    height: 50%;
+   margin-left: 2%;
+   margin-right: 2%;
+   border-radius: 10px;
+   
+}
+.box-width img{
+width: 50%;
+}
+.mission{
+    padding: 3%;
+    background-color: rgb(108, 223, 211);
+}
+.vission{
+    padding: 3%;
+    background-color: wheat;
+}
+.goals{
+    padding: 3%;
+    background-color: thistle;
+}
+#contact{
+    background-color: rgb(227, 245, 237);
+    margin-bottom: 0%;
+}
+#contact h1{
+    padding-top: 5px;
+    font-weight: 800;
+    
+}
+
+h2 strong{
+    color: rgb(59, 56, 56);
+}
+.follow:hover{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+footer{
+    background-color: black;
+    color: white;
+   
+}
+
